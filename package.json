@@ -1,0 +1,15 @@
+{
+  "name": "mycli",
+  "version": "1.0.0",
+  "description": "a cli-demo",
+  "main": "index.js",
+  "bin": {
+    "mycli": "./index.js"
+  },
+  "author": "vincent",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "inquirer": "^7.3.3"
+  }
+}
